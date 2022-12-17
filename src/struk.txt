@@ -1,0 +1,10 @@
+=================================
+STRUK PEMBAYARAN 
+=================================
+Nama : rju
+ID : 333
+Nama Kursus : Java
+Jenis Kelas :Offline
+Total Biaya :2300000
+=================================
+
